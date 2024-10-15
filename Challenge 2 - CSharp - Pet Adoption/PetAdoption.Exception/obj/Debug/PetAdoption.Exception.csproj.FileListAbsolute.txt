@@ -1,0 +1,6 @@
+C:\Users\niran\Desktop\My Files\Hexaware\Coding Challenges\Challenge 2 - CSharp - Pet Adoption\PetAdoption.Exception\bin\Debug\PetAdoption.Exception.dll
+C:\Users\niran\Desktop\My Files\Hexaware\Coding Challenges\Challenge 2 - CSharp - Pet Adoption\PetAdoption.Exception\bin\Debug\PetAdoption.Exception.pdb
+C:\Users\niran\Desktop\My Files\Hexaware\Coding Challenges\Challenge 2 - CSharp - Pet Adoption\PetAdoption.Exception\obj\Debug\PetAdoption.Exception.csproj.AssemblyReference.cache
+C:\Users\niran\Desktop\My Files\Hexaware\Coding Challenges\Challenge 2 - CSharp - Pet Adoption\PetAdoption.Exception\obj\Debug\PetAdoption.Exception.csproj.CoreCompileInputs.cache
+C:\Users\niran\Desktop\My Files\Hexaware\Coding Challenges\Challenge 2 - CSharp - Pet Adoption\PetAdoption.Exception\obj\Debug\PetAdoption.Exception.dll
+C:\Users\niran\Desktop\My Files\Hexaware\Coding Challenges\Challenge 2 - CSharp - Pet Adoption\PetAdoption.Exception\obj\Debug\PetAdoption.Exception.pdb
